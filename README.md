@@ -1,7 +1,6 @@
 
 # sentiment-lora-quickstart
 
-Fast, copy‑paste repo to **train your own NLP model in ~15–25 minutes** using **LoRA fine‑tuning** on a small sentiment dataset (*rotten_tomatoes*). This is ideal when a job asks, “have you trained your own model?” — you can point to this repo and the resulting model artifact.
 
 ## What you get
 - `train.py` — fine‑tunes **DistilBERT** with **LoRA** (parameter‑efficient).
