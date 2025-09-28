@@ -49,7 +49,7 @@ You can push the adapter to the Hugging Face Hub by setting `--push_to_hub` and 
 python -c "from huggingface_hub import login; login()"
 
 # Train and push
-python train.py --output_dir ./model --epochs 1 --push_to_hub --repo_id YOUR_USERNAME/rt-sentiment-lora
+python train.py --output_dir ./model --epochs 1 --push_to_hub --repo_id spacetaco12345/rt-sentiment-lora
 ```
 
 This publishes:
