@@ -1,0 +1,10 @@
+
+transformers>=4.40.0
+datasets>=2.20.0
+accelerate>=0.30.0
+peft>=0.11.0
+evaluate>=0.4.2
+scikit-learn>=1.2.0
+numpy
+torch
+huggingface_hub
